@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\точка входа\университет\3 курс 2 семестр\розподілене та паралельне програмування\labs\mpi\mpi\main.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\точка входа\университет\3 курс 2 семестр\розподілене та паралельне програмування\labs\mpi\mpi\main.cpp(16): warning C4101: 'index': unreferenced local variable
+  MPI.vcxproj -> D:\Точка входа\Университет\3 курс 2 семестр\Розподілене та паралельне програмування\Labs\MPI\Debug\MPI.exe

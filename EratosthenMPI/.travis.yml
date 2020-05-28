@@ -1,5 +1,0 @@
-language: C
-
-before_install: sudo apt-get install libcr-dev mpich2 mpich2-doc
-
-branch: master
